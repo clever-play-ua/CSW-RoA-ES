@@ -1,0 +1,492 @@
+{
+  "RoA_A01_CNMC1_SCRN_001": {
+    "type": "MESSAGES",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "What do you prefer?",
+    "esMX": "¿Qué prefieres?"
+  },
+  "RoA_A01_CNMC1_SCRN_002": {
+    "type": "MESSAGES",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Watch story of Alliance formation",
+    "esMX": "Ver la historia de la formación de la Alianza."
+  },
+  "RoA_A01_CNMC1_SCRN_003": {
+    "type": "MESSAGES",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Skip to the latest events",
+    "esMX": "Ir a los últimos eventos"
+  },
+  "RoA_A01_CNMC1_SCRN_004": {
+    "type": "MESSAGES",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Skip Everything",
+    "esMX": "Saltar todo"
+  },
+  "RoA_A01_CNMC1_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Southshore, one month after the fall of Stormwind Keep.",
+    "esMX": "Costasur, un mes después de la caída de Ventormenta."
+  },
+  "RoA_A01_CNMC1_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "A proper landing site…. Are we in Lordaeron?",
+    "esMX": "Un punto de desembarco adecuado... ¿Estamos en Lordaeron?"
+  },
+  "RoA_A01_CNMC1_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Indeed. The township of Soutshore, between Dalaran and Alterac.",
+    "esMX": "Así es. El poblado de Costasur, entre Dalaran y Alterac."
+  },
+  "RoA_A01_CNMC1_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Thank you, Mayor Marcus. I understand you can’t spare much, but we are grateful for any aid.",
+    "esMX": "Gracias, alcalde Marcus. Entiendo que no le sobra mucho, pero estamos agradecidos por cualquier ayuda."
+  },
+  "RoA_A01_CNMC1_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "MAM",
+    "unit_name": "Mayor Marcus",
+    "enUS": "Of course, Lord Lothar. We wouldn’t let women and children starve. But tell me now, why have you and your people fled across the sea? What happened in Azeroth?",
+    "esMX": "Por supuesto, Lord Lothar. No dejaríamos que las mujeres y los niños mueran de hambre. Pero dígame ahora, ¿por qué usted y su gente han huido a través del mar? ¿Qué pasó en Azeroth?"
+  },
+  "RoA_A01_CNMC1_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Stormwind...",
+    "esMX": "Ventormenta..."
+  },
+  "RoA_A01_CNMC1_VO_S001_007": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "My lord. I have sent ravens to Dalaran and Lordaeron. Lord Antonidas is already aware of the scale of the threat, and I believe he will convince King Terenas to summon the lords of the remaining kingdoms.",
+    "esMX": "Mi señor. He enviado cuervos a Dalaran y Lordaeron. Lord Antonidas ya está al tanto de la magnitud de la amenaza, y confío en que convencerá al rey Terenas de convocar a los señores de los reinos restantes."
+  },
+  "RoA_A01_CNMC1_VO_S001_008": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "We must not delay, Khadgar. I must speak with the king at once. We dare not give the Horde time to move again.",
+    "esMX": "No debemos demorarnos, Khadgar. Debo hablar con el rey de inmediato. No podemos arriesgarnos a darle tiempo a la Horda para que se mueva otra vez."
+  },
+  "RoA_A01_CNMC1_VO_S001_009": {
+    "type": "VO",
+    "unit_id": "MAM",
+    "unit_name": "Mayor Marcus",
+    "enUS": "Lordaeron City is no short distance! I will send someone ahead on a fast horse to warn them of your approach.",
+    "esMX": "¡La Capital de Lordaeron no está precisamente cerca! Enviaré a alguien por delante en un caballo veloz para advertirles de su llegada."
+  },
+  "RoA_A01_CNMC1_VO_S001_010": {
+    "type": "VO",
+    "unit_id": "MAM",
+    "unit_name": "Mayor Marcus",
+    "enUS": "And as for your people here, we will take care of them until you return.",
+    "esMX": "Y en cuanto a su gente aquí, nos encargaremos de ellos hasta que regrese."
+  },
+  "RoA_A01_CNMC1_VO_S001_011": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Thank you, Mayor. Meryn!",
+    "esMX": "Gracias, alcalde. ¡Meryn!"
+  },
+  "RoA_A01_CNMC1_VO_S001_012": {
+    "type": "VO",
+    "unit_id": "MER",
+    "unit_name": "Meryn",
+    "enUS": "Yes, sire!",
+    "esMX": "¡Sí, señor!"
+  },
+  "RoA_A01_CNMC1_VO_S001_013": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "You will take charge of settling our people in this region. Make sure everything is in order until we return.",
+    "esMX": "Te encargarás de asentar a nuestra gente en esta región. Asegúrate de que todo esté en orden hasta que regresemos."
+  },
+  "RoA_A01_CNMC1_VO_S001_014": {
+    "type": "VO",
+    "unit_id": "MER",
+    "unit_name": "Meryn",
+    "enUS": "I will do my best, Lord Lothar.",
+    "esMX": "Haré mi mejor esfuerzo, Lord Lothar."
+  },
+  "RoA_A01_CNMC1_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "One week later — Capital City of Lordaeron.",
+    "esMX": "Una semana después — La Capital de Lordaeron."
+  },
+  "RoA_A01_CNMC1_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "KGU",
+    "unit_name": "Kings Guard",
+    "enUS": "Your Grace, the survivors of Stormwind.",
+    "esMX": "Su Gracia, los sobrevivientes de Ventormenta."
+  },
+  "RoA_A01_CNMC1_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Your Majesty. As lord of this land, I offer my hospitality and protection to you. The heir of Azeroth deserves no less.",
+    "esMX": "Su Majestad. Como señor de estas tierras, os ofrezco mi hospitalidad y protección. El heredero de Azeroth no merece menos."
+  },
+  "RoA_A01_CNMC1_VO_S002_004": {
+    "type": "VO",
+    "unit_id": "VWR",
+    "unit_name": "Varian Wrynn",
+    "enUS": "Thank you, your Majesty.",
+    "esMX": "Gracias, Su Majestad."
+  },
+  "RoA_A01_CNMC1_VO_S002_005": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "You must know, I grieved when I learned the news of your noble father’s death. King Llane was a good man and we counted him as a friend and an ally. Know that we shall do all in our power to restore you to your throne.",
+    "esMX": "Debe saber que me invadió el dolor cuando supe la noticia de la muerte de su noble padre. El rey Llane era un buen hombre y lo considerábamos un amigo y un aliado. Sepa que haremos todo lo que esté a nuestro alcance para restaurarlo en su trono."
+  },
+  "RoA_A01_CNMC1_VO_S002_006": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "You bear the royal sigil of Azeroth, yet I do not know who you are. Are you the prince’s protector?",
+    "esMX": "Portas el sello real de Azeroth, mas no sé quién eres. ¿Eres el protector del príncipe?"
+  },
+  "RoA_A01_CNMC1_VO_S002_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Your Majesty, I am Anduin Lothar, Knight-Champion of Azeroth and a close friend to the late King Llane. And these are my companions…",
+    "esMX": "Su Majestad, soy Anduin Lothar, Caballero Campeón de Azeroth y amigo cercano del difunto rey Llane. Y estos son mis compañeros…"
+  },
+  "RoA_A01_CNMC1_VO_S002_008": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "…we come before you to discuss a matter of grave and urgent importance!",
+    "esMX": "…¡venimos ante usted para discutir un asunto de grave y urgente importancia!"
+  },
+  "RoA_A01_CNMC1_VO_S002_009": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Ah, Lord Lothar… you are of a proud and ancient bloodline, and your reputation precedes you. You shall have your audience.",
+    "esMX": "Ah, Lord Lothar… vienes de un linaje orgulloso y antiguo, y tu reputación te precede. Tendrás tu audiencia."
+  },
+  "RoA_A01_CNMC1_VO_S002_010": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "You must be tired, your Majesty. Let’s take rest in the palace.",
+    "esMX": "Debe estar cansado, Su Majestad. Vayamos a descansar al palacio."
+  },
+  "RoA_A01_CNMC1_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Thank you all for coming, I know the request seemed sudden, but we have matters of grave importance to discuss and time seems to be of the essence.",
+    "esMX": "Gracias a todos por venir, sé que la petición pareció repentina, pero tenemos asuntos de grave importancia que discutir y el tiempo apremia."
+  },
+  "RoA_A01_CNMC1_VO_S003_002": {
+    "type": "VO",
+    "unit_id": "APE",
+    "unit_name": "Aiden Perenolde",
+    "enUS": "Such a haste for a gathering unseen in decades. You better have important reasons indeed, I missed a royal hunt.",
+    "esMX": "Tanta prisa para una reunión que no se veía en décadas. Más vale que tengan motivos realmente importantes, me perdí una cacería real."
+  },
+  "RoA_A01_CNMC1_VO_S003_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "I present to you Anduin Lothar, Champion of Stormwind. He has come here as a messenger. I think it best if I let him tell you himself what he has seen and what we may soon expect ourselves.",
+    "esMX": "Les presento a Anduin Lothar, Campeón de Ventormenta. Ha venido aquí como mensajero. Creo que lo mejor será que deje que él mismo les cuente lo que ha visto y lo que pronto podríamos esperar nosotros mismos."
+  },
+  "RoA_A01_CNMC1_VO_S003_004": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Your Majesties, I thank you for attending this meeting, and for listening to what I have to say. I am no poet or diplomat but a warrior, so I will keep my words brief and blunt. I must tell you that my home, Stormwind, is no more.",
+    "esMX": "Sus Majestades, les agradezco por asistir a esta reunión y por escuchar lo que tengo que decir. No soy poeta ni diplomático, sino un guerrero, así que seré breve y directo. Debo decirles que mi hogar, Ventormenta, ya no existe."
+  },
+  "RoA_A01_CNMC1_VO_S003_005": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "My lords! Lord Lothar, please continue. I have been to Stormwind before, and I admired its grandness and strength. What could destroy such a city?",
+    "esMX": "¡Mis señores! Lord Lothar, por favor continúe. He estado en Ventormenta antes, y admiraba su grandeza y fuerza. ¿Qué pudo destruir semejante ciudad?"
+  },
+  "RoA_A01_CNMC1_VO_S003_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "It fell before a Horde of creatures known as orcs.",
+    "esMX": "Cayó ante una Horda de criaturas conocidas como orcos."
+  },
+  "RoA_A01_CNMC1_VO_S003_007": {
+    "type": "VO",
+    "unit_id": "TTR",
+    "unit_name": "Thoras Trollbane",
+    "enUS": "Orcs? Are they some kind of trolls? And where did this horde come from? As far as I know, you have dealt with the trolls of the southern jungles before.",
+    "esMX": "¿Orcos? ¿Son alguna especie de troles? ¿Y de dónde salió esa horda? Hasta donde sé, ustedes ya se han enfrentado antes a los troles de las junglas del sur."
+  },
+  "RoA_A01_CNMC1_VO_S003_008": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "No trolls, Your Grace. They are an alien race, who have invaded our lands through a magical rift hidden somewhere within the southern fringes of the Black Morass.",
+    "esMX": "No son troles, Su Gracia. Son una raza alienígena que ha invadido nuestras tierras a través de una grieta mágica oculta en algún lugar de los límites del sur de la Ciénaga Negra."
+  },
+  "RoA_A01_CNMC1_VO_S003_009": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "They are terrible foes, as tall as a man and far stronger, with bestial features, green skin, and red eyes.",
+    "esMX": "Son enemigos terribles, tan altos como un hombre y mucho más fuertes, con rasgos bestiales, piel verde y ojos rojos."
+  },
+  "RoA_A01_CNMC1_VO_S003_010": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Know this — the Horde will not stop at Stormwind. They mean to claim the entire world, and they have the might and the numbers to do so. Nor do they lack magical powers.",
+    "esMX": "Sepan esto: la Horda no se detendrá en Ventormenta. Pretenden reclamar el mundo entero, y tienen la fuerza y el número para hacerlo. Tampoco carecen de poderes mágicos."
+  },
+  "RoA_A01_CNMC1_VO_S003_011": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Once they have finished with my homeland, they will find a way to cross the ocean and come for the rest of you.",
+    "esMX": "Una vez que hayan terminado con mi patria, encontrarán la manera de cruzar el océano e irán por el resto de ustedes."
+  },
+  "RoA_A01_CNMC1_VO_S003_012": {
+    "type": "VO",
+    "unit_id": "APR",
+    "unit_name": "Admiral Proudmoore",
+    "enUS": "You say they are coming here. Do they have ships?",
+    "esMX": "Dices que vienen hacia aquí. ¿Acaso tienen barcos?"
+  },
+  "RoA_A01_CNMC1_VO_S003_013": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "I do not know, but even if they did not have ships before, they certainly will have them soon — they raided all along our coastline and captured our wharfs. They can and will use them to build more ships.",
+    "esMX": "No lo sé, pero incluso si no tenían barcos antes, ciertamente los tendrán pronto; saquearon toda nuestra costa y capturaron nuestros muelles. Pueden usarlos, y lo harán, para construir más barcos."
+  },
+  "RoA_A01_CNMC1_VO_S003_014": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "We can assume, then, that they have the means to cross the ocean.",
+    "esMX": "Podemos asumir, entonces, que tienen los medios para cruzar el océano."
+  },
+  "RoA_A01_CNMC1_VO_S003_015": {
+    "type": "VO",
+    "unit_id": "GGR",
+    "unit_name": "Genn Graymane",
+    "enUS": "You are telling us to prepare for war then?!",
+    "esMX": "¡¿Nos está diciendo entonces que nos preparemos para la guerra?!"
+  },
+  "RoA_A01_CNMC1_VO_S003_016": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Yes, a war for the very survival of our race.",
+    "esMX": "Sí, una guerra por la supervivencia misma de nuestra raza."
+  },
+  "RoA_A01_CNMC1_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "We need to begin massive war preparations.",
+    "esMX": "Necesitamos comenzar con preparativos masivos para la guerra."
+  },
+  "RoA_A01_CNMC1_VO_S004_002": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "While the kingdoms are assembling their armies, I will send a small scouting force to the island of Zul’Dare, to evaluate if the Horde has made any attempts to cross the Great Sea yet.",
+    "esMX": "Mientras los reinos reúnen sus ejércitos, enviaré una pequeña fuerza de exploración a la isla de Zul'Dare, para evaluar si la Horda ya ha intentado cruzar el Gran Mar."
+  },
+  "RoA_A01_CNMC1_VO_S004_003": {
+    "type": "VO",
+    "unit_id": "GGR",
+    "unit_name": "Genn Graymane",
+    "enUS": "Our shores have long stood vigil over this continent, and we’ve thrown all sorts of pirates back into the sea. I am certain we can do so again. I don’t see the necessity of unifying our armies into a single force.",
+    "esMX": "Nuestras costas han vigilado este continente durante mucho tiempo, y hemos arrojado a toda clase de piratas de vuelta al mar. Estoy seguro de que podemos hacerlo de nuevo. No veo la necesidad de unificar nuestros ejércitos en una sola fuerza."
+  },
+  "RoA_A01_CNMC1_VO_S004_004": {
+    "type": "VO",
+    "unit_id": "APE",
+    "unit_name": "Aiden Perenolde",
+    "enUS": "I admit that the situation is serious, but I need to consult with my lawmakers and ministers before I can subscribe to any kind of war. This is how things are done in civilized kingdoms.",
+    "esMX": "Admito que la situación es seria, pero necesito consultar con mis legisladores y ministros antes de poder comprometerme con cualquier tipo de guerra. Así es como se hacen las cosas en los reinos civilizados."
+  },
+  "RoA_A01_CNMC1_VO_S004_005": {
+    "type": "VO",
+    "unit_id": "TTR",
+    "unit_name": "Thoras Trollbane",
+    "enUS": "What bureaucratic nonsense, Aiden! If you can't take responsibility, then leave it to those who can.",
+    "esMX": "¡Qué tonterías burocráticas, Aiden! Si no puedes asumir la responsabilidad, déjasela a quienes sí pueden."
+  },
+  "RoA_A01_CNMC1_VO_S004_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Your Majesties, we’ve told you, these are no mere raiders, this is death riding on dark tides! You will not be able to withstand them on your own, only together, all of us!",
+    "esMX": "¡Sus Majestades, se los hemos dicho, estos no son meros saqueadores, esto es la muerte cabalgando sobre mareas oscuras! ¡No podrán resistir por su cuenta, solo juntos, todos nosotros!"
+  },
+  "RoA_A01_CNMC1_VO_S004_007": {
+    "type": "VO",
+    "unit_id": "TTR",
+    "unit_name": "Thoras Trollbane",
+    "enUS": "On that I agree Sir Lothar. However, if we are to establish this union, I only see fit that I lead it to battle!",
+    "esMX": "En eso estoy de acuerdo, Sir Lothar. Sin embargo, si vamos a establecer esta unión, ¡solo veo justo que sea yo quien la lidere a la batalla!"
+  },
+  "RoA_A01_CNMC1_VO_S004_008": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Do I need to remind at whose behest are we here? Who sponsored this council from the beginning? We need more than a mere battle commander, we need someone who can unite us.",
+    "esMX": "¿Acaso debo recordar por orden de quién estamos aquí? ¿Quién patrocinó este consejo desde el principio? Necesitamos más que un mero comandante de batalla, necesitamos a alguien que pueda unirnos."
+  },
+  "RoA_A01_CNMC1_VO_S004_009": {
+    "type": "VO",
+    "unit_id": "GGR",
+    "unit_name": "Genn Graymane",
+    "enUS": "So, you have come to claim sovereignty over us?",
+    "esMX": "Entonces, ¿has venido a reclamar la soberanía sobre nosotros?"
+  },
+  "RoA_A01_CNMC1_VO_S004_010": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Of course not. I am merely saying the command of our unified forces should not be decided lightly.",
+    "esMX": "Por supuesto que no. Solo digo que el mando de nuestras fuerzas unificadas no debe decidirse a la ligera."
+  },
+  "RoA_A01_CNMC1_VO_S004_011": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "The Kirin Tor agrees. This is not a matter of military might or political influence, we need a unifying presence. A presence experienced with this sort of threat.",
+    "esMX": "El Kirin Tor está de acuerdo. Esto no es una cuestión de poder militar o influencia política, necesitamos una presencia unificadora. Una presencia con experiencia ante este tipo de amenaza."
+  },
+  "RoA_A01_CNMC1_VO_S004_012": {
+    "type": "VO",
+    "unit_id": "APR",
+    "unit_name": "Admiral Proudmoore",
+    "enUS": "There’s wisdom to your words, Lord Antonidas. Kul Tiras owns the seas, and I am ready to lead our fleets into battle if need be, but to command…",
+    "esMX": "Hay sabiduría en sus palabras, Lord Antonidas. Kul Tiras es dueño de los mares, y estoy listo para liderar nuestras flotas a la batalla si es necesario, pero comandar…"
+  },
+  "RoA_A01_CNMC1_VO_S004_013": {
+    "type": "VO",
+    "unit_id": "AFA",
+    "unit_name": "Alonsus Faol",
+    "enUS": "I see where you are going…If I may, great leaders. When Northshire was decimated by the foul magic of orcish warlocks, we despaired. And when King Llane fell and Stormwind burned, we lost all hope.",
+    "esMX": "Veo a dónde quieren llegar... Si me permiten, grandes líderes. Cuando la Abadía de Villanorte fue diezmada por la vil magia de los brujos orcos, nos desesperamos. Y cuando el rey Llane cayó y Ventormenta ardió, perdimos toda esperanza."
+  },
+  "RoA_A01_CNMC1_VO_S004_014": {
+    "type": "VO",
+    "unit_id": "AFA",
+    "unit_name": "Alonsus Faol",
+    "enUS": "Yet there was one man who rallied us and led us through darkness. Anduin Lothar.",
+    "esMX": "Sin embargo, hubo un hombre que nos unió y nos guió a través de la oscuridad. Anduin Lothar."
+  },
+  "RoA_A01_CNMC1_VO_S004_015": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Indeed… I agree. As the champion of Azeroth, Lord Lothar spent years battling the orcish hordes. His experience alone is invaluable.",
+    "esMX": "En verdad… estoy de acuerdo. Como campeón de Azeroth, Lord Lothar pasó años luchando contra las hordas orcas. Su sola experiencia es invaluable."
+  },
+  "RoA_A01_CNMC1_VO_S004_016": {
+    "type": "VO",
+    "unit_id": "TTR",
+    "unit_name": "Thoras Trollbane",
+    "enUS": "And his bloodline. My ancestors fought beside Thoradin before, it would be a great honor to do so again by following his descendant.",
+    "esMX": "Y su linaje. Mis ancestros lucharon junto a Thoradin en el pasado, sería un gran honor hacerlo de nuevo siguiendo a su descendiente."
+  },
+  "RoA_A01_CNMC1_VO_S004_017": {
+    "type": "VO",
+    "unit_id": "APR",
+    "unit_name": "Admiral Proudmoore",
+    "enUS": "Kul Tiras agrees with this assessment. Sir Lothar is the perfect choice.",
+    "esMX": "Kul Tiras está de acuerdo con esa evaluación. Sir Lothar es la elección perfecta."
+  },
+  "RoA_A01_CNMC1_VO_S004_018": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "A wise decision. The Kirin Tor stands behind you.",
+    "esMX": "Una decisión sabia. El Kirin Tor lo respalda."
+  },
+  "RoA_A01_CNMC1_VO_S004_019": {
+    "type": "VO",
+    "unit_id": "APE",
+    "unit_name": "Aiden Perenolde",
+    "enUS": "If the majority agrees, so do I.",
+    "esMX": "Si la mayoría está de acuerdo, yo también."
+  },
+  "RoA_A01_CNMC1_VO_S004_020": {
+    "type": "VO",
+    "unit_id": "GGR",
+    "unit_name": "Genn Graymane",
+    "enUS": "Gilneas shall honor the pact, Lord Lothar. We will provide any troops, armor, weaponry, food we can spare.",
+    "esMX": "Gilneas honrará el pacto, Lord Lothar. Proporcionaremos todas las tropas, armaduras, armas y alimentos que podamos aportar."
+  },
+  "RoA_A01_CNMC1_VO_S004_021": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Now then, we have all agreed that time is of the essence if we are to marshal our united forces and meet the Horde when it arrives.",
+    "esMX": "Ahora bien, todos hemos acordado que el tiempo apremia si queremos desplegar nuestras fuerzas unidas y recibir a la Horda cuando llegue."
+  },
+  "RoA_A01_CNMC1_VO_S004_022": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Do we also agree upon our course of action?",
+    "esMX": "¿Estamos también de acuerdo con nuestro plan de acción?"
+  },
+  "RoA_A01_CNMC1_VO_S004_023": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Then I hereby declare the founding of the Grand Alliance of Lordaeron!",
+    "esMX": "¡Entonces, por la presente, declaro la fundación de la Gran Alianza de Lordaeron!"
+  },
+  "RoA_A01_CNMC1_VO_S004_024": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "We shall stand together as one, as our ancestors did long ago, in the Arathi Empire. And it is only fitting, then, that our commander should hail from that ancient ruling stock.",
+    "esMX": "Permaneceremos juntos como uno solo, como lo hicieron nuestros ancestros hace mucho tiempo, en el Imperio de Arathor. Y es de lo más adecuado, entonces, que nuestro comandante provenga de ese antiguo linaje gobernante."
+  },
+  "RoA_A01_CNMC1_VO_S004_025": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "We the kings of the Alliance do hereby appoint Lord Anduin Lothar, Champion of Azeroth, as our Supreme Commander!",
+    "esMX": "¡Nosotros, los reyes de la Alianza, nombramos por la presente a Lord Anduin Lothar, Campeón de Azeroth, como nuestro Comandante Supremo!"
+  },
+  "RoA_A01_CNMC1_VO_S004_026": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "This is great honor for me. I accept this charge. With your aid, noble kings, we will vanquish the Horde and spare your people from the gruesome fate of Stormwind!",
+    "esMX": "Este es un gran honor para mí. Acepto este cargo. ¡Con su ayuda, nobles reyes, venceremos a la Horda y libraremos a su gente del espantoso destino de Ventormenta!"
+  }
+}
