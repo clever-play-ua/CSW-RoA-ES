@@ -1,12 +1,4 @@
 {
-  "APR": {
-    "enUS": "Admiral Proudmoore",
-    "esMX": "Almirante Valiente"
-  },
-  "APE": {
-    "enUS": "Aiden Perenolde",
-    "esMX": "Aliden Perenolde"
-  },
   "AFA": {
     "enUS": "Alonsus Faol",
     "esMX": "Alonsus Faol"
@@ -19,17 +11,17 @@
     "enUS": "Antonidas",
     "esMX": "Antonidas"
   },
+  "APE": {
+    "enUS": "Aiden Perenolde",
+    "esMX": "Aliden Perenolde"
+  },
+  "APR": {
+    "enUS": "Admiral Proudmoore",
+    "esMX": "Almirante Valiente"
+  },
   "ART": {
     "enUS": "Arthas",
     "esMX": "Arthas"
-  },
-  "RBL": {
-    "enUS": "Dal’Rend Blackhand",
-    "esMX": "Dal'rend Puño Negro"
-  },
-  "DTR": {
-    "enUS": "Danath Trollbane",
-    "esMX": "Danath Aterratrols"
   },
   "DPR": {
     "enUS": "Derek Proudmoore",
@@ -43,9 +35,13 @@
     "enUS": "Drunk Orc",
     "esMX": "Orco borracho"
   },
-  "GTD": {
-    "enUS": "Gavinrad the Dire",
-    "esMX": "Gavinrad el Temible"
+  "DTR": {
+    "enUS": "Danath Trollbane",
+    "esMX": "Danath Aterratrols"
+  },
+  "ECA": {
+    "enUS": "Elven Captain",
+    "esMX": "Capitán elfo"
   },
   "GGR": {
     "enUS": "Genn Graymane",
@@ -55,21 +51,33 @@
     "enUS": "Grunt",
     "esMX": "Bruto"
   },
-  "KTH": {
-    "enUS": "Kel’Thuzad",
-    "esMX": "Kel’Thuzad"
-  },
-  "KHA": {
-    "enUS": "Khadgar",
-    "esMX": "Khadgar"
+  "GTD": {
+    "enUS": "Gavinrad the Dire",
+    "esMX": "Gavinrad el Temible"
   },
   "KGU": {
     "enUS": "Kings Guard",
     "esMX": "Guardia Real"
   },
+  "KHA": {
+    "enUS": "Khadgar",
+    "esMX": "Khadgar"
+  },
+  "KOG": {
+    "enUS": "Korkron Orge Guard",
+    "esMX": "Guardia Ogro Kor'kron"
+  },
   "KRA": {
     "enUS": "Krasus",
     "esMX": "Krasus"
+  },
+  "KSU": {
+    "enUS": "Kael'thas Sunstrider",
+    "esMX": "Kael'thas Caminante del Sol"
+  },
+  "KTH": {
+    "enUS": "Kel’Thuzad",
+    "esMX": "Kel’Thuzad"
   },
   "KWI": {
     "enUS": "Kurdran Wildhammer",
@@ -79,10 +87,6 @@
     "enUS": "Lord Darius Crowley",
     "esMX": "Lord Darius Crowley"
   },
-  "MBL": {
-    "enUS": "Maim Blackhand",
-    "esMX": "Maim Puño Negro"
-  },
   "MAA": {
     "enUS": "Man at Arms",
     "esMX": "Hombre de armas"
@@ -91,21 +95,25 @@
     "enUS": "Mayor Marcus",
     "esMX": "Alcalde Marcus"
   },
+  "MBL": {
+    "enUS": "Maim Blackhand",
+    "esMX": "Maim Puño Negro"
+  },
+  "MBR": {
+    "enUS": "Muradin Bronzebeard",
+    "esMX": "Muradin Barbabronce"
+  },
   "MER": {
     "enUS": "Meryn",
     "esMX": "Meryn"
-  },
-  "MTS": {
-    "enUS": "Milan the Scribe",
-    "esMX": "Milan el Escriba"
   },
   "MOD": {
     "enUS": "Modera",
     "esMX": "Modera"
   },
-  "MBR": {
-    "enUS": "Muradin Bronzebeard",
-    "esMX": "Muradin Barbabronce"
+  "MTS": {
+    "enUS": "Milan the Scribe",
+    "esMX": "Milan el Escriba"
   },
   "NTP": {
     "enUS": "Nobbel the Pious",
@@ -115,6 +123,14 @@
     "enUS": "Orc Captain",
     "esMX": "Capitán orco"
   },
+  "ODO": {
+    "enUS": "Orgrim Doomhammer",
+    "esMX": "Orgrim Martillo Maldito"
+  },
+  "OPI": {
+    "enUS": "Orc Pirate",
+    "esMX": "Pirata orco"
+  },
   "PEO": {
     "enUS": "Peon",
     "esMX": "Peón"
@@ -122,6 +138,10 @@
   "PRI": {
     "enUS": "Prisoner",
     "esMX": "Prisionero"
+  },
+  "RBL": {
+    "enUS": "Dal’Rend Blackhand",
+    "esMX": "Dal'rend Puño Negro"
   },
   "RDE": {
     "enUS": "Regional Defender",
@@ -135,6 +155,14 @@
     "enUS": "Teron Gorefiend",
     "esMX": "Teron Sanguino"
   },
+  "THA": {
+    "enUS": "Tharbek",
+    "esMX": "Tharbek"
+  },
+  "TME": {
+    "enUS": "Terenas Menethil II",
+    "esMX": "Terenas Menethil II"
+  },
   "TTR": {
     "enUS": "Thoras Trollbane",
     "esMX": "Thoras Aterratrols"
@@ -143,13 +171,13 @@
     "enUS": "Turalyon",
     "esMX": "Turalyon"
   },
-  "UTL": {
-    "enUS": "Uther the Lightbringer",
-    "esMX": "Uther el Iluminado"
-  },
   "USC": {
     "enUS": "Utok Scratcher",
     "esMX": "Utok Rascador"
+  },
+  "UTL": {
+    "enUS": "Uther the Lightbringer",
+    "esMX": "Uther el Iluminado"
   },
   "VWR": {
     "enUS": "Varian Wrynn",
@@ -162,33 +190,5 @@
   "ZTW": {
     "enUS": "Zuluhed the Whacked",
     "esMX": "Zuluhed el Demente"
-  },
-  "TME": {
-    "enUS": "Terenas Menethil II",
-    "esMX": "Terenas Menethil II"
-  },
-  "ODO": {
-    "enUS": "Orgrim Doomhammer",
-    "esMX": "Orgrim Martillo Maldito"
-  },
-  "THA": {
-    "enUS": "Tharbek",
-    "esMX": "Tharbek"
-  },
-  "KOG": {
-    "enUS": "Korkron Orge Guard",
-    "esMX": "Guardia Ogro Kor'kron"
-  },
-  "ECA": {
-    "enUS": "Elven Captain",
-    "esMX": "Capitán elfo"
-  },
-  "KSU": {
-    "enUS": "Kael'thas Sunstrider",
-    "esMX": "Kael'thas Caminante del Sol"
-  },
-  "OPI": {
-    "enUS": "Orc Pirate",
-    "esMX": "Pirata orco"
   }
 }

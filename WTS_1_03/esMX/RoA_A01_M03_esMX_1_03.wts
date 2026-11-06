@@ -369,7 +369,7 @@ WC2Human03Antonidas_Intro3
 STRING 190
 // Items: IL09 (WC2Human03Rend_Announcement1), Tip (Tooltip - Basic)
 {
-Dal’Rend Blackhand
+Dal'rend Puño Negro
 }
 
 STRING 192
@@ -381,7 +381,7 @@ WC2Human03Rend_Announcement1
 STRING 193
 // Items: IL10 (WC2Human03Maim_Announcement1), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Maim Puño Negro
 }
 
 STRING 195
@@ -393,7 +393,7 @@ WC2Human03Maim_Announcement1
 STRING 196
 // Items: IL11 (WC2Human03Teron_Announcement1), Tip (Tooltip - Basic)
 {
-Teron Gorefiend
+Teron Sanguino
 }
 
 STRING 198
@@ -405,7 +405,7 @@ WC2Human03Teron_Announcement1
 STRING 199
 // Items: IL12 (WC2Human03Zuluhed_Announcement1), Tip (Tooltip - Basic)
 {
-Zuluhed the Whacked
+Zuluhed el Demente
 }
 
 STRING 200
@@ -644,7 +644,7 @@ Khadgar
 STRING 250
 // Items: IL29 (WC2Human03Rend_Camp1), Tip (Tooltip - Basic)
 {
-Dal’Rend Blackhand
+Dal'rend Puño Negro
 }
 
 STRING 252
@@ -656,7 +656,7 @@ WC2Human03Rend_Camp1
 STRING 253
 // Items: IL30 (WC2Human03Maim_Camp1), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Maim Puño Negro
 }
 
 STRING 254
@@ -674,7 +674,7 @@ WC2Human03Maim_Camp1
 STRING 256
 // Items: IL31 (WC2Human03Rend_Camp2), Tip (Tooltip - Basic)
 {
-Dal’Rend Blackhand
+Dal'rend Puño Negro
 }
 
 STRING 258
@@ -2691,7 +2691,7 @@ Instalando generador mágico en:
 
 STRING 727
 {
-Setting up magical generator in:
+Instalando generador mágico en:
 }
 
 STRING 728
@@ -2760,7 +2760,7 @@ Contraofensiva
 STRING 740
 // Units: nDam (Dam), Name (Name)
 {
-Dam
+La presa
 }
 
 STRING 741
@@ -2990,7 +2990,7 @@ STRING 784
 STRING 787
 // Items: IL92 (WC2Human03DalaranCaptain01), Tip (Tooltip - Basic)
 {
-Captain
+Capitán
 }
 
 STRING 789
@@ -3014,7 +3014,7 @@ Hm... Podría usar estos barriles de petróleo para crear una distracción...
 STRING 795
 // Items: IL88 (WC2Human03Peon_Barrels01), Tip (Tooltip - Basic)
 {
-Peon
+Peón
 }
 
 STRING 796
@@ -3256,7 +3256,7 @@ WC2Human03Krasus_Dam2
 STRING 842
 // Items: IL87 (WC2Human03Grunt_Barrels01), Tip (Tooltip - Basic)
 {
-Grunt
+Bruto
 }
 
 STRING 843
@@ -3280,7 +3280,7 @@ WC2Human03Peon_Barrels01
 STRING 846
 // Items: IL89 (WC2Human03TeronMeetPaladin01), Tip (Tooltip - Basic)
 {
-Teron Gorefiend
+Teron Sanguino
 }
 
 STRING 847
@@ -3364,7 +3364,7 @@ WC2Human03Modera_Disguise5
 STRING 863
 // Items: IL94 (WC2Human03Maim_CatapultsLaunch01), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Maim Puño Negro
 }
 
 STRING 864

@@ -1372,7 +1372,7 @@ WC2HumanAct01Antonidas03
 STRING 4030
 // Items: IL05 (WC2HumanAct01DaelinProudmoore01), Tip (Tooltip - Basic)
 {
-Admiral Proudmoore
+Almirante Valiente
 }
 
 STRING 4032
@@ -1384,7 +1384,7 @@ WC2HumanAct01DaelinProudmoore01
 STRING 4033
 // Items: IL06 (WC2HumanAct01DaelinProudmoore02), Tip (Tooltip - Basic)
 {
-Admiral Proudmoore
+Almirante Valiente
 }
 
 STRING 4034
@@ -1402,7 +1402,7 @@ WC2HumanAct01DaelinProudmoore02
 STRING 4036
 // Items: IL07 (WC2HumanAct01DaelinProudmoore03), Tip (Tooltip - Basic)
 {
-Admiral Proudmoore
+Almirante Valiente
 }
 
 STRING 4037
@@ -1420,7 +1420,7 @@ WC2HumanAct01DaelinProudmoore03
 STRING 4039
 // Items: IL08 (WC2HumanAct01Danath01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Aterratrols
 }
 
 STRING 4040
@@ -1438,7 +1438,7 @@ WC2HumanAct01Danath01
 STRING 4042
 // Items: IL09 (WC2HumanAct01Danath02), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Aterratrols
 }
 
 STRING 4044
@@ -1450,7 +1450,7 @@ WC2HumanAct01Danath02
 STRING 4045
 // Items: IL10 (WC2HumanAct01Danath03), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Aterratrols
 }
 
 STRING 4046
@@ -1468,7 +1468,7 @@ WC2HumanAct01Danath03
 STRING 4048
 // Items: IL11 (WC2HumanAct01Gavinrad01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Palabra de Curación
 }
 
 STRING 4049
@@ -1486,7 +1486,7 @@ WC2HumanAct01Gavinrad01
 STRING 4051
 // Units: HGrF (King of Gilneas), Propernames (Proper Names)
 {
-Genn Graymane
+Genn Cringris
 }
 
 STRING 4052
@@ -1504,7 +1504,7 @@ WC2HumanAct01Graymane01
 STRING 4054
 // Items: IL12 (WC2HumanAct01Graymane01), Tip (Tooltip - Basic)
 {
-Genn Graymane
+Genn Cringris
 }
 
 STRING 4055
@@ -1522,7 +1522,7 @@ WC2HumanAct01Graymane02
 STRING 4057
 // Items: IL13 (WC2HumanAct01Graymane02), Tip (Tooltip - Basic)
 {
-Genn Graymane
+Genn Cringris
 }
 
 STRING 4058
@@ -1540,7 +1540,7 @@ WC2HumanAct01Graymane03
 STRING 4060
 // Items: IL14 (WC2HumanAct01Graymane03), Tip (Tooltip - Basic)
 {
-Genn Graymane
+Genn Cringris
 }
 
 STRING 4061
@@ -1558,7 +1558,7 @@ WC2HumanAct01Graymane04
 STRING 4063
 // Items: IL16 (WC2HumanAct01Guard01), Tip (Tooltip - Basic)
 {
-Kings Guard
+Guardia Real
 }
 
 STRING 4064
@@ -1966,7 +1966,7 @@ WC2HumanAct01Lothar23
 STRING 4144
 // Items: IL43 (WC2HumanAct01Marcus01), Tip (Tooltip - Basic)
 {
-Mayor Marcus
+Alcalde Marcus
 }
 
 STRING 4145
@@ -1984,7 +1984,7 @@ WC2HumanAct01Marcus01
 STRING 4147
 // Items: IL44 (WC2HumanAct01Marcus02), Tip (Tooltip - Basic)
 {
-Mayor Marcus
+Alcalde Marcus
 }
 
 STRING 4148
@@ -2002,7 +2002,7 @@ WC2HumanAct01Marcus02
 STRING 4150
 // Items: IL45 (WC2HumanAct01Marcus03), Tip (Tooltip - Basic)
 {
-Mayor Marcus
+Alcalde Marcus
 }
 
 STRING 4151
@@ -2050,7 +2050,7 @@ WC2HumanAct01Meryn02
 STRING 4159
 // Units: HAPF (King of Alterac), Propernames (Proper Names)
 {
-Aiden Perenolde
+Aliden Perenolde
 }
 
 STRING 4160
@@ -2068,7 +2068,7 @@ WC2HumanAct01Perenolde01
 STRING 4162
 // Items: IL48 (WC2HumanAct01Perenolde01), Tip (Tooltip - Basic)
 {
-Aiden Perenolde
+Aliden Perenolde
 }
 
 STRING 4164
@@ -2080,7 +2080,7 @@ WC2HumanAct01Perenolde02
 STRING 4165
 // Items: IL49 (WC2HumanAct01Perenolde02), Tip (Tooltip - Basic)
 {
-Aiden Perenolde
+Aliden Perenolde
 }
 
 STRING 4166
@@ -2622,7 +2622,7 @@ STRING 4277
 STRING 4278
 // Units: HTCF (King of Stromgarde), Propernames (Proper Names)
 {
-Thoras Trollbane
+Thoras Aterratrols
 }
 
 STRING 4279
@@ -2694,13 +2694,13 @@ STRING 4289
 STRING 4290
 // Items: IL15 (WC2HumanAct01Graymane04), Tip (Tooltip - Basic)
 {
-Genn Graymane
+Genn Cringris
 }
 
 STRING 4291
 // Items: IL50 (WC2HumanAct01Perenolde03), Tip (Tooltip - Basic)
 {
-Aiden Perenolde
+Aliden Perenolde
 }
 
 STRING 4292
@@ -2859,25 +2859,25 @@ Cleric
 STRING 4318
 // Items: IL71 (WC2HumanAct01Thoras01), Tip (Tooltip - Basic)
 {
-Thoras Trollbane
+Thoras Aterratrols
 }
 
 STRING 4319
 // Items: IL72 (WC2HumanAct01Thoras02), Tip (Tooltip - Basic)
 {
-Thoras Trollbane
+Thoras Aterratrols
 }
 
 STRING 4320
 // Items: IL73 (WC2HumanAct01Thoras03), Tip (Tooltip - Basic)
 {
-Thoras Trollbane
+Thoras Aterratrols
 }
 
 STRING 4321
 // Items: IL74 (WC2HumanAct01Thoras04), Tip (Tooltip - Basic)
 {
-Thoras Trollbane
+Thoras Aterratrols
 }
 
 STRING 4322
